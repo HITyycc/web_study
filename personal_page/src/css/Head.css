@@ -1,0 +1,20 @@
+.header {
+  width: 100%;
+  background-color: grey;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding-left: 20px;
+  box-sizing: border-box;
+}
+.header .choice{
+  margin-right: 40px;
+  color: white;
+  font-style: "微软雅黑";
+  cursor: pointer;
+}
+
+.header .choice:hover{
+  color: rgba(10, 10, 10, 0.5);
+  font-weight: bold;
+}
