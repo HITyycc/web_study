@@ -1,0 +1,15 @@
+.chooseTable {
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
+  border-right: rgba(100, 100, 100, 0.5) 1px solid;
+  border-bottom: rgba(100, 100, 100, 0.5) 1px solid;
+}
+.chooseTable  td{
+  border-top: rgba(100, 100, 100, 0.5) 1px solid;
+  border-left: rgba(100, 100, 100, 0.5) 1px solid;
+}
+.whole-container{
+  width: 80%;
+  margin: 0px auto;
+}
